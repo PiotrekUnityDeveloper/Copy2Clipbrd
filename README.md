@@ -58,6 +58,8 @@ OR
 ![image](https://github.com/user-attachments/assets/4ef69a47-23d8-43f3-bfb1-7323101a4d6b)
 
 IMPORTANT NOTE: If you dont have the Reference option, and instead have the: Project Reference/Shared Project Reference or COM Reference, select the COM one
+![image](https://github.com/user-attachments/assets/0e859be5-1755-4f2d-aebc-0ea5a1f54e85)
+
 
 A window should pop up, you can now search for the Winforms reference, check it and click OK
 ![image](https://github.com/user-attachments/assets/503ec0d7-0fae-4c44-9a3c-24fe05454800)
