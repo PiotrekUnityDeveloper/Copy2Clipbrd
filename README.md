@@ -50,7 +50,7 @@ Cant find the reference at all? You can download an unmodified copy of the .dll 
 
 Now that you downloaded it, simply go back to that reference window, click on BROWSE and select your newly downloaded .dll file
 ![image](https://github.com/user-attachments/assets/2f14fd29-f57a-46ae-bf6a-bbeacda05cb3)
-![image](https://github.com/user-attachments/assets/6623d93f-a0bc-4449-b65c-3161ee1d9e9b)
+![image](https://github.com/user-attachments/assets/aed13852-bfd3-4e46-a96e-90fe412cf2f4)
 
 The project should reload, and you should be good to go! The next time you will build the project, the exact same .dll will be copied to the build path (if its not, then copy it there manually)
 
