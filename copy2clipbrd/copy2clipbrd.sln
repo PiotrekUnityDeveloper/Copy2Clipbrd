@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "copy2clipbrd", "copy2clipbrd\copy2clipbrd.csproj", "{11C6D0F9-3EF3-4FDB-98FD-6BC837ACFC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C6D0F9-3EF3-4FDB-98FD-6BC837ACFC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C6D0F9-3EF3-4FDB-98FD-6BC837ACFC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C6D0F9-3EF3-4FDB-98FD-6BC837ACFC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C6D0F9-3EF3-4FDB-98FD-6BC837ACFC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4866464-0F93-4C47-AE58-6A5D0FD9708D}
+	EndGlobalSection
+EndGlobal

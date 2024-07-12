@@ -1,0 +1,12 @@
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\bin\Debug\copy2clipbrd.exe.config
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\bin\Debug\copy2clipbrd.exe
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\bin\Debug\copy2clipbrd.pdb
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.Form1.resources
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.Properties.Resources.resources
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.exe
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.pdb
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.TrustInfo.xml
+C:\Users\Piotr\Desktop\projects\copy2clipbrd\copy2clipbrd\obj\Debug\copy2clipbrd.exe.manifest
