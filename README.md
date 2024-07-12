@@ -4,6 +4,26 @@ Copy2Clipbrd is an easy to use and open source tool that makes it easy to copy a
 ![image](https://github.com/user-attachments/assets/f2d5ad27-1af4-4615-aef7-d8d8873a83f9)
 ![example2](https://github.com/user-attachments/assets/0982d47b-df3a-49a2-90ed-e5dc8388ad65)
 
+# Usage
+How to use:
+
+YOU CAN DOWNLOAD THE LATEST BUILD FROM THE RELEASES TAB!
+
+1. Launch the RUN.bat file
+   - The Copy2Clipbrd window will show up.
+
+2. Choose your context menu preferences
+   - Check all the options you want to show up in the right click file menu
+
+3. Click the large switch to activate the service
+   - After you do so, you can close the Copy2Clipboard window.
+  
+   NOTE: DONT MOVE THE MAIN EXECUTABLE, PARENT FOLDER, OR ANY ASSETS FROM THE INITIAL LOCATION THE SERVICE WAS STARTED FROM
+   (i mean it's not that dramatic to write in full caps, if you do end up relocating the files,
+   please run the service again by launching the main executable copy2clipbrd.exe and pressing refresh)
+   EVEN THOUGH IT SAYS ITS ON AFTER YOU MOVED THE FILES, IT MAY NOT WORK CORRECTLY. yeah it is on, but in registry the executable path is different, so yeah just remember to relauch your session
+
+
 # Building from source code
 
 This software is created from 2 main programs, the one is responsible for modifying the registry and adding the right click menu options,
