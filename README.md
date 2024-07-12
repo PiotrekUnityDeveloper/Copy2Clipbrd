@@ -45,4 +45,27 @@ A window should pop up, you can now search for the Winforms reference, check it 
 In case you dont see the System.Windows.Forms Reference, please try searching in COM tab as well
 ![image](https://github.com/user-attachments/assets/ffb73935-a3c7-470c-b0ac-6b9c00076fc2)
 
-Cant find the reference at all?
+Cant find the reference at all? You can download an unmodified copy of the .dll at this link:
+[https://github.com/PiotrekUnityDeveloper/Copy2Clipbrd/blob/main/System.Windows.Forms.dll](https://github.com/PiotrekUnityDeveloper/Copy2Clipbrd/blob/main/System.Windows.Forms.dll)
+
+Now that you downloaded it, simply go back to that reference window, click on BROWSE and select your newly downloaded .dll file
+![image](https://github.com/user-attachments/assets/2f14fd29-f57a-46ae-bf6a-bbeacda05cb3)
+![image](https://github.com/user-attachments/assets/6623d93f-a0bc-4449-b65c-3161ee1d9e9b)
+
+The project should reload, and you should be good to go! The next time you will build the project, the exact same .dll will be copied to the build path (if its not, then copy it there manually)
+
+# Plans for Features
+
+There's a couple more things i would want to add to this tool, like copying an image to clipboard with just the menu item, or copying an entire .txt files
+It would be fun, useful and pretty easy to add, but for now, this tool won't be updated with those features (although, you are welcome to fork us and work it out yourself!)
+
+The plan is to create a scripting software allowing you to write custom code that will be run on any context menu item you may want to add. From replacing a symbol in multiple filenames to another one, to idk, any ideas?
+This plan remains a plan for now, but im keen on making it a thing sometime! Hit me up if you want to join in the team.
+
+# Contrubuting
+
+We are open to any kind of contrubutions to our software. From bug fixes to new features, rewrites. Whatever it is, ill be happy my software has helped or been useful to someone, and seeing people interested in my work is epic!
+
+# License
+
+I dont care about attribution! All i want to have is open source software for anyone to learn from, use or expand! That's why this project is licensed under the [DONT ASK](https://piotrekunitydeveloper.github.io/dontask/) license, which is basically a license allowing you to do anything you want with the code! Yay! #makeeverythingopensource
